@@ -377,16 +377,6 @@ Authorization: Bearer <admin_token>
 
 ---
 
-## 👥 Nhóm Phát triển
-
-| Thành viên | Vai trò |
-|------------|---------|
-| Nhựt | Backend Architecture, Security |
-| Nguyên | Business Logic, API Design |
-| Lam | Frontend Admin & Customer |
-| Ninh | Database Design, Reporting |
-
----
 
 <div align="center">
 
